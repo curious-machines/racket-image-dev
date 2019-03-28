@@ -1,0 +1,6 @@
+{
+  "image_name": "thelonious/racket",
+  "image_version": "0.0.1",
+  "base_image": "thelonious/ubuntu",
+  "base_versions": [ "0.0.1" ]
+}
